@@ -1,7 +1,6 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Марина Стратийчук](https://up.htmlacademy.ru/adaptive/30/user/2407401).
-* Наставник: `Неизвестно`.
 * Наставник: [Ирина Малиновская](https://htmlacademy.ru/profile/irina-malinovskaya).
 ---
 
